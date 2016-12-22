@@ -1,4 +1,4 @@
-# deploy me again!sssfffffssssssddssffassssfff
+strider
 # README
 
 This README would normally document whatever steps are necessary to get the
